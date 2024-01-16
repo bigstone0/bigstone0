@@ -5,6 +5,9 @@
 <img src="https://img.shields.io/badge/sds7150sds@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <a href="https://www.instagram.com/ds_bigstone/" target="_blank"><img src="https://img.shields.io/badge/ds_bigstone-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
+
+###Skills
+
 <!--
 **bigstone0/bigstone0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
