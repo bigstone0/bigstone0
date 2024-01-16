@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sim Dae Seok 👋
 
 <a href="https://bigstone-coding.tistory.com" target="_blank"><img src="https://img.shields.io/badge/BLOG-3DDC84?style=flat-square&logo=Naver&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/sds7150sds@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
@@ -7,6 +7,7 @@
 
 
 ### Skills
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 <!--
 **bigstone0/bigstone0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
