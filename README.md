@@ -5,6 +5,9 @@
 <img src="https://img.shields.io/badge/sds7150sds@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <a href="https://www.instagram.com/ds_bigstone/" target="_blank"><img src="https://img.shields.io/badge/ds_bigstone-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigstone0&show_icons=true&theme=vue)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sds8154)](https://solved.ac/sds8154/)
+
 ### Skills
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -20,11 +23,6 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Google Maps Plaform-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase Auth-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigstone0&show_icons=true&theme=vue)
-
-
 
 <!--
 **bigstone0/bigstone0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
